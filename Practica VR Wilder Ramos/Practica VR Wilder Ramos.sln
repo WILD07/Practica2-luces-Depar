@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica VR Wilder Ramos", "Practica VR Wilder Ramos.csproj", "{68A33539-B66D-8774-4DDE-089929CD2F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica VR Wilder Ramos.Editor", "Practica VR Wilder Ramos.Editor.csproj", "{2B66D37A-5452-E894-7606-01A9EC7384B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A33539-B66D-8774-4DDE-089929CD2F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A33539-B66D-8774-4DDE-089929CD2F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A33539-B66D-8774-4DDE-089929CD2F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A33539-B66D-8774-4DDE-089929CD2F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B66D37A-5452-E894-7606-01A9EC7384B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B66D37A-5452-E894-7606-01A9EC7384B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B66D37A-5452-E894-7606-01A9EC7384B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B66D37A-5452-E894-7606-01A9EC7384B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5A97B5E-7DB9-427F-938E-E07502E662B6}
+	EndGlobalSection
+EndGlobal
